@@ -34,7 +34,7 @@
                             <div class="row">
                                 <div class="col-md-5">Username</div>
                                 <div class="col-md-7">
-                                    <input type="text" id="username" />
+                                    <input type="text" id="username" value="admin"/>
                                 </div>
                             </div>
                             <div class="row">
